@@ -1,2 +1,2 @@
-# Patch-English---Super-Famicom
+# Patch-English-Super-Famicom
 Fan Patch
